@@ -14,7 +14,7 @@ const ServicesPage = () => {
                 <div className="max-w-[450px]">
 
                     <h1 className="text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-5">My <span className="font-bold text-secondary"> services.</span></h1>
-                    <p className="mb-3 text-xl text-gray-300">As a front-end developer who is just starting his career, I'm enthusiastic about learning and embracing new practices in web development. I'm passionate about collaborating within teams. Continuously striving for professional growth.</p>
+                    <p className="mb-3 text-xl text-gray-300">As a front-end developer who is just starting his career, I am enthusiastic about learning and embracing new practices in web development. I am passionate about collaborating within teams. Continuously striving for professional growth.</p>
                     <button className="px-3 py-2 rounded-lg bg-secondary hover:bg-secondary/65">Contact me</button>
                 </div>
 

@@ -11,7 +11,7 @@ const Introduction = () => {
 
                 <div className="flex flex-col justify-center max-w-md">
                     <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">
-                        I´m Lucas, <br />
+                        I am Lucas, <br />
                         <TypeAnimation
                             sequence={[
                                 'Front End',
@@ -27,7 +27,7 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                    As a front-end developer, I'm passionate about continuously exploring new technologies and techniques to enhance my skills. 
+                    As a front-end developer, I am passionate about continuously exploring new technologies and techniques to enhance my skills. 
                     My enthusiasm for staying updated and my dedication to tackling new challenges drive me to seek opportunities for growth.
                     </p>
 
